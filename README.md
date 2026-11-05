@@ -4,7 +4,7 @@ Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science 
 _Note_: Odd-numbered assignments are in HuskyCT, while even-numbered assignments are found in this repo and can be submitted to Gradescope via a Github connection.
 
 # Mod 9: Personal Ethics Statement
-I will
+I will build code clearly stating of code ownership when the code was not written by me as well as clearly state the use of AI tools in a project and the extent to which the tools were used. I am a student here to learn and develop skills so I can get a job in the field of computer science. The concepts I learn are the foundation of my skills. It is important I do my own learning so that I am the one developing skills and in the future I will be able to be an effective problem solver. If I use assistance from AI tools for my learning it is important that I am aware of what shortcuts the tools are providing me and that I disclose the use of AI tools for projects where code is being written, debugged and deployed. Without clear communication on who wrote code that I am claim ownership for or the use of AI in assisting code writing and/or debugging, I would be violating academic integrity and undermining my own learning. 
 
 
 ## Outline of Assignments
