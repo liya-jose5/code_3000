@@ -1,10 +1,11 @@
 # code_3000
 Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science and Engineering
 
+_Note_: Odd-numbered assignments are in HuskyCT, while even-numbered assignments are found in this repo and can be submitted to Gradescope via a Github connection.
+
 # Personal Ethics Statement
 I will
 
-_Note_: Odd-numbered assignments are in HuskyCT, while even-numbered assignments are found in this repo and can be submitted to Gradescope via a Github connection.
 
 ## Outline of Assignments
 
